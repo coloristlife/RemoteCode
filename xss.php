@@ -1,2 +1,2 @@
 <?php
-echo $_POST["comment"];
+echo <script>alert("hacked")</script>;
